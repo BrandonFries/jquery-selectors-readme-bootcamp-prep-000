@@ -1,1 +1,3 @@
-function paragraphSelector($'ul li')
+function paragraphSelector() {
+  return $('p')
+}
