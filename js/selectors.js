@@ -1,2 +1,1 @@
-paragraphSelector()
-$'ul li'
+paragraphSelector($'ul li')
