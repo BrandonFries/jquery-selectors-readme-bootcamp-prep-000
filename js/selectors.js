@@ -1,1 +1,1 @@
-paragraphSelector($'ul li')
+function paragraphSelector($'ul li')
